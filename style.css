@@ -1,0 +1,41 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+/* ------------------------------------
+             css style
+--------------------------------------- */
+body {
+  font-family: "Poppins", sans-serif;
+}
+header {
+  background-color: #264653;
+  width: 100%;
+}
+.hero-title {
+  font-size: 48px;
+}
+.hero-btn {
+  background-color: #e76f51;
+  border: none;
+  width: 130px;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+}
+.card-btn {
+  border: 1px solid#E76F51;
+  background-color: white;
+  color: #e76f51;
+}
+.img-color-convert {
+  filter: grayscale(100%);
+}
+.color-text {
+  color: #e76f51;
+  font-weight: 600;
+}
+.fa-icon {
+  color: #e76f51;
+}
+.fa-star {
+  color: #e76f51;
+}
